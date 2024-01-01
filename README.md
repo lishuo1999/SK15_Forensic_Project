@@ -17,7 +17,7 @@ SK쉴더스 루키즈 15기 포렌식조 최종 프로젝트
 
 ## 인프라 구축 정보
 |시스템|역할|OS|버전|
-|------|---|---|---|
+|:---:|:---:|:---:|:---:|
 |Exchange 서버|OWA / 메일 사서함|Windows Server 2016|Microsoft Exchange 2016 cu19 KB4588884|
 |Active Directory|OU 연결 자원 관리|Windows Server 2016|Standard Evaluation|
 |DB 관리자 PC|데이터베이스 관리|Windows Server 2016|Standard Evaluation|
